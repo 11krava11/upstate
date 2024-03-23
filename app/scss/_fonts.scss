@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'Filson-Soft';
+  font-weight: 700;
+  font-style: normal;
+  src: local('Filson-Soft'),
+  url('../fonts/filsonsoft-bold.woff2') format('woff2'),
+  url('../fonts/filsonsoft-bold.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Proxima-Nova';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Proxima-Nova'),
+  url('../fonts/ProximaNova-Regular.woff2') format('woff2'),
+  url('../fonts/ProximaNova-Regular.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Proxima-Nova';
+  font-weight: 700;
+  font-style: normal;
+  src: local('Proxima-Nova'),
+  url('../fonts/ProximaNova-Bold.woff2') format('woff2'),
+  url('../fonts/ProximaNova-Bold.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Font-Awesome';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Font-Awesome'),
+  url('../fonts/FontAwesome5FreeRegular.woff2') format('woff2'),
+  url('../fonts/FontAwesome5FreeRegular.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Roboto'),
+  url('../fonts/Roboto-Regular.woff2') format('woff2'),
+  url('../fonts/Roboto-Regular.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Liberation-Sans';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Liberation-Sans'),
+  url('../fonts/AnyConv.com__LiberationSans-Regular.woff2') format('woff2'),
+  url('../fonts/LiberationSans-Regular.woff') format('woff');
+  font-display: swap;
+}
